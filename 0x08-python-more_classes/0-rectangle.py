@@ -1,5 +1,6 @@
 #!/usr/bin/python3
+"""An empty class called rectangle"""
 
 class Rectangle():
-    """An empty class called rectangle"""
+    """A class called rectangle"""
     pass
