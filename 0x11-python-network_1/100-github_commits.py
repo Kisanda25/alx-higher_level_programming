@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Python script that takes 2 arguments in order to solve this challenge"""
+""" Python script that takes 2 arguments"""
 import sys
 import requests
 
